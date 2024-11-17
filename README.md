@@ -19,9 +19,6 @@ A modern, intuitive, and user-friendly web application designed to help users **
 2. **Build Your Resume**: Choose from various templates and customize your content. 📝
 3. **Download & Share**: Export your resume as a PDF or share it directly with recruiters! 🌍
 
-## 📸 **Visual Preview:**
-![Resume Builder Image](assets/images/dublin-resume-templates.avif)
-
 ## 🚀 **Get Started:**
 1. Clone this repository to your local machine. 💻
 2. Run the application using your favorite code editor or web server. 🖥️
